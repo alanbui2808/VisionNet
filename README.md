@@ -10,6 +10,8 @@ There are several brain-inspired characteristics that have gained a lot of popul
 
 ### Technical Skills 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
@@ -17,9 +19,23 @@ There are several brain-inspired characteristics that have gained a lot of popul
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 <br>
 
+### Installing Machine Learning Libraries
+##### TensorFlow
+      !pip install tensorflow
+##### Keras
+      !pip install keras
+##### PyTorch
+      https://pytorch.org/get-started/locally/
+##### Pandas
+      !pip install pandas
+##### NumPy
+      !pip install numpy
+##### Matplotlib
+      !pip install matplotlib
+      
 ### File Content and Description 
-* Baselines.ipynb: 
-* Attention-CNN.ipynb:
+* Baselines.ipynb: Implementation of Baseline Models using Vanilla Finetuning and Transfer Learning on CIFAR10 and CIFAR100
+* Attention-CNN.ipynb: Contains code for proposed three self-attention based architectures 
 
 <br><br><br>
 ![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=Anshumaan-Chauhan02)
