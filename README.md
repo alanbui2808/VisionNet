@@ -35,11 +35,14 @@ There are several brain-inspired characteristics that have gained a lot of popul
       
 ### File Content and Description 
 * Baselines.ipynb: Implementation of Baseline Models using Vanilla Finetuning and Transfer Learning on CIFAR10 and CIFAR100
-* Attention-CNN.ipynb: Contains code for proposed three self-attention based architectures 
+* Attention-CNN.ipynb: Contains code for proposed three self-attention based architectures. Contains heat map generation for error analysis
 
 ### How to Run
 1) Download the ipynb files from the repository
-2) Create a new folder named '' (can also have other name for the folder, but then edit the file locations in the Attention-CNN.ipynb)
+2) 3) Create a new folder named 'CS591 Final Project - AttentionCNN' on Google Colab(can also have other name for the folder, but then edit the file locations in the Attention-CNN.ipynb)
+3) Upload both the notebooks in the parent folder created
+4) To get the baseline model's performance run Baselines.ipynb file
+5) Run Attention-CNN.ipynb for execution of the proposed architectures on CIFAR10 and CIFAR100 
 
 <br><br><br>
 ![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=Anshumaan-Chauhan02)
