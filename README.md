@@ -38,8 +38,8 @@ There are several brain-inspired characteristics that have gained a lot of popul
 * Attention-CNN.ipynb: Contains code for proposed three self-attention based architectures 
 
 ### How to Run
-1)
-2)
+1) Download the ipynb files from the repository
+2) Create a new folder named '' (can also have other name for the folder, but then edit the file locations in the Attention-CNN.ipynb)
 
 <br><br><br>
 ![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=Anshumaan-Chauhan02)
