@@ -39,7 +39,7 @@ There are several brain-inspired characteristics that have gained a lot of popul
 
 ### How to Run
 1) Download the ipynb files from the repository
-2) 3) Create a new folder named 'CS591 Final Project - AttentionCNN' on Google Colab(can also have other name for the folder, but then edit the file locations in the Attention-CNN.ipynb)
+2) Create a new folder named 'CS591 Final Project - AttentionCNN' on Google Colab(can also have other name for the folder, but then edit the file locations in the Attention-CNN.ipynb)
 3) Upload both the notebooks in the parent folder created
 4) To get the baseline model's performance run Baselines.ipynb file
 5) Run Attention-CNN.ipynb for execution of the proposed architectures on CIFAR10 and CIFAR100 
