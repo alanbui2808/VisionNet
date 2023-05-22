@@ -37,6 +37,10 @@ There are several brain-inspired characteristics that have gained a lot of popul
 * Baselines.ipynb: Implementation of Baseline Models using Vanilla Finetuning and Transfer Learning on CIFAR10 and CIFAR100
 * Attention-CNN.ipynb: Contains code for proposed three self-attention based architectures 
 
+## How to Run
+1)
+2)
+
 <br><br><br>
 ![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=Anshumaan-Chauhan02)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anshumaan-Chauhan02&layout=compact)
