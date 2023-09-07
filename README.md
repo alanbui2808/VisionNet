@@ -45,5 +45,3 @@ There are several brain-inspired characteristics that have gained a lot of popul
 5) Run Attention-CNN.ipynb for execution of the proposed architectures on CIFAR10 and CIFAR100 
 
 <br><br><br>
-![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=Anshumaan-Chauhan02)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anshumaan-Chauhan02&layout=compact)
